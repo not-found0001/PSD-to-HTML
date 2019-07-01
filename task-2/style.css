@@ -1,0 +1,248 @@
+*{margin:0;padding:0;outline:0}
+body{font-family:arial;font-size:14px;line-height:18px;}
+
+.clear{overflow:hidden;}
+.template{width:960px;margin:0 auto;}
+
+.header {
+    background-color: #46485D;
+    width: 960px;
+    height: 425px;
+}
+.logo{
+	float:left;
+	font-weight: bold;
+}
+.logo__title {
+    margin: 10px;
+    padding-top: 10px;
+    padding-left: 35px;
+    color: #828498;
+}
+.menu{
+	float: right;
+	list-style: none;
+}
+.menu__list{
+	margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.menu__list-item{
+	display: block;
+    float: left;
+}
+.menu__list-item a {
+    text-decoration: none;
+    padding-top: 17px;
+    padding-right: 40px;
+    margin: 3px;
+    display: block;
+    color: #7A8498;
+    font-size: 11px;
+    font-weight: bold;
+}
+.menu__list-item a:hover{
+	color: white;
+}
+.another-class{}
+.Description {
+    float: left;
+    margin-top: 60px;
+    margin-left: -130px;
+}
+.Description__fs {
+    color: #C3C6E1;
+    padding-top: 15px;
+    margin: 0px;
+}
+.Description__ss {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 37px;
+}
+.Description__th {
+    color: #777991;
+    padding-top: 17px;
+    font-size: 12px;
+    margin: 0px;
+}
+.Description__fr {
+    color: #777991;
+    font-size: 12px;
+}
+.Description__fv {
+    color: white;
+    font-size: 11px;
+    background: #5A5C80;
+    margin: 45px 237px -83px 4px;
+    padding: 10px;
+    text-align: center;
+}
+.navsection{
+}
+.main-Description {
+    margin: 10px 10px -30px;
+    text-align: center;
+    padding: 27px;
+}
+.block-one {
+    margin: 40px 30px 0px 30px;
+    padding: 30px 30px 0px 30px;
+}
+.block-one__big {
+    padding-bottom: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #C8CBE5;
+
+}
+.block-one__border {
+    border: 2px solid !important;
+    margin: 7px 355px;
+    color: #C3C6E2;
+
+}
+.block-two {
+    margin: 0px 100px 100px 100px;
+    padding: 20px 100px;
+}
+.block-two__para {
+    color: #9094B3;
+    line-height: 22px;
+}
+.icon{}
+.icon-Description {
+    margin-left: 60px;
+    padding: 6px;
+    float: left;
+    text-align: center;
+}
+.icon-Description__to {
+    padding-top: 40px;
+    color: #5A5C80;
+    font-weight: bold;
+    font-size: 16px;
+
+}
+.icon-Description__th {
+    border: 2px solid !important;
+    color: #C3C6E2;
+    margin-left: 63px;
+    margin-right: 63px;
+    padding-bottom: -1px;
+
+}
+.icon-Description__fr {
+    padding-top: 5px;
+    color: #BCBED2;
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 1px;
+}
+.icon-Description__fv {
+    padding-top: 5px;
+    color: #BCBED2;
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+.mainsection{
+	background-color: #F9F9FF;
+	height: 472px;
+}
+.main-focus{
+	float: left;
+}
+.main-focus__fs{
+	margin-left: 40px;
+	background: #CCCEE6;
+	padding: 30px 85px 30px 85px;
+	text-align: center;
+}
+.main-focus__ss{
+	background: #BEC0D8;
+	padding: 30px 85px 30px 85px;
+	text-align: center;
+}
+.main-focus__th{
+	background: #B1B3CB;
+	padding: 30px 85px 30px 85px;
+	text-align: center;
+}
+.main-focus__fr{
+	background: #A1A4C7;
+	padding: 30px 85px 30px 85px;
+	text-align: center;
+}
+.footer{
+	margin-top: 100px;
+	background: #46485D;
+	height:570px;
+}
+.logo-lo{
+	float:left;
+}
+.logo-lo__image {
+    width: 400px;
+    height: 425px;
+}
+.Des-right {
+    margin-left: 488px;
+    margin-top: 77px;
+}
+.Des-right__on {
+    color: #BFC2DE;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+.Des-right__to {
+    color: #FFF;
+    font-weight: bold;
+    font-size: 27px;
+    padding-top: 5px;
+}
+.Des-right__th {
+    border: 2px solid #C3C6E2;
+    margin-right: 430px;
+    margin-top: 35px;
+}
+.Des-right__fr {
+    margin-top: 40px;
+    color: #B9BDD8;
+    font-size: 13px;
+}
+.Des-right__fv {
+    margin-top: -8px;
+    color: #B9BDD8;
+    font-size: 13px;
+}
+.Des-right__si{
+	margin-top: -8px;
+    color: #B9BDD8;
+    font-size: 13px;
+}
+.Des-right__se {
+    margin-top: 45px;
+    background: #5A5C80;
+    padding: 17px;
+    margin-right: 266px;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+}
+.copyright{
+	text-align: center;
+}
+.copyright__border {
+    margin-top: 120px;
+    border: 1px solid #535468;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.copyright__Description {
+    color: #FFF;
+    font-weight: bold;
+    margin-top: 30px;
+}
