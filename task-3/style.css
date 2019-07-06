@@ -1,0 +1,39 @@
+.jumbotron{
+	height:444px;
+}
+.text-format {
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 18px;
+}
+.text-format__on {
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -15px;
+    margin-bottom: 40px;
+}
+.Mid-format {
+	margin-top: 55px;
+	padding-top: 50px;
+}
+.card-deck {
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    margin-right: 125px;
+    margin-left: 125px;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background: #F8F8F8;
+    margin-top: -30px;
+}
+.new-cls {
+    margin-left: 140px;
+    margin-right: 140px;
+}
